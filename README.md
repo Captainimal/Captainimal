@@ -21,4 +21,9 @@ Captainimal is a ✨ special ✨ person because its `README.md` (this file) appe
 You can click the Preview link to take a look at your changes.
 --->
 
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/Captainimal)
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge&logo=twitter)](https://twitter.com/alan_jev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jevon-alana-66a7b6280/)
+[![Reddit](https://img.shields.io/badge/Reddit-Profile-blue?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/your_username)
+
 </div>
