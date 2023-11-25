@@ -21,7 +21,7 @@ Captainimal is a ✨ special ✨ person because its `README.md` (this file) appe
 You can click the Preview link to take a look at your changes.
 --->
 
-##Connect with me
+## Connect with me
 
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge&logo=Twitter)](https://twitter.com/solid_drink)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jevon-alana-66a7b6280/)
